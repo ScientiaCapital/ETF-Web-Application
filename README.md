@@ -4,13 +4,13 @@ In recent years, finance has had an explosion in passive investing. Passive inve
 
 For this Challenge assignment, you need to create and submit the following deliverables:
 
-     - A Jupyter notebook that contains the following:
+     -- A Jupyter notebook that contains the following:
 
-          - Your analysis of the ETF data that a SQL database stores
+          -- Your analysis of the ETF data that a SQL database stores
 
-          - Professionally styled and formatted interactive visualizations
+          -- Professionally styled and formatted interactive visualizations
 
-     - A screenshot or video of the web application that you created by deploying your Jupyter notebook via the Voilà library
+     -- A screenshot or video of the web application that you created by deploying your Jupyter notebook via the Voilà library
 
 Instructions:  Use the etf_analyzer.ipynb notebook to complete your analysis of a fintech ETF that consists of four stocks: GOST, GS, PYPL, and SQ. Each stock has its own table in the etf.db database, which the Starter_Code folder contains.
 
