@@ -48,6 +48,11 @@ import sqlalchemy
 
 ```
 
+## Examples
+
+![Plot](https://github.com/ScientiaCapital/ETF-Web-Application/blob/main/Images/ETF%20Cum%20Returns.png)
+
+
 ## Usage
 
 1. Clone repository onto your personal machine. 
