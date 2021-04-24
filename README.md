@@ -1,4 +1,4 @@
-# ETF Web Application
+# ETF Web Application [ETF Web Application](https://github.com/ScientiaCapital/ETF-Web-Application/blob/main/Images/ETF%20invest%20app.jpeg)
 
 In recent years, finance has had an explosion in passive investing. Passive investing means that you invest in a basket of assets that’s called an exchange-traded fund (ETF). This way, you don’t spend time researching individual stocks or companies or take the risk of investing in a single stock. ETFs offer more diversification.
 
@@ -16,8 +16,6 @@ Instructions:  Use the etf_analyzer.ipynb notebook to complete your analysis of 
 
 Analyze the daily returns of the ETF stocks both individually and as a whole. Then deploy the visualizations to a web application by using the Voilà library.
 
-     
-![ETF Web Application](https://github.com/ScientiaCapital/ETF-Web-Application/blob/main/Images/ETF%20invest%20app.jpeg)
 
 ---
 
