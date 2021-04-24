@@ -23,12 +23,10 @@ Before attempting to execute any _Python_ code in `etf_analyzer.ipynb`, it is im
 With your _Python 3.7+_ environment, run the following commands via CLI:
 
 ```
-
 import numpy as np
 import pandas as pd
 import hvplot.pandas
 import sqlalchemy
-
 ```
 
 ## Examples
