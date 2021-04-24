@@ -1,23 +1,6 @@
 # ETF Web Application 
 
-![](https://github.com/ScientiaCapital/ETF-Web-Application/blob/main/Images/etef%20pic.jpeg)
-
-In recent years, finance has had an explosion in passive investing. Passive investing means that you invest in a basket of assets that’s called an exchange-traded fund (ETF). This way, you don’t spend time researching individual stocks or companies or take the risk of investing in a single stock. ETFs offer more diversification.
-
-For this Challenge assignment, you need to create and submit the following deliverables:
-
-     - A Jupyter notebook that contains the following:
-
-          - Your analysis of the ETF data that a SQL database stores
-
-          - Professionally styled and formatted interactive visualizations
-
-     - A screenshot or video of the web application that you created by deploying your Jupyter notebook via the Voilà library
-
-Instructions:  Use the etf_analyzer.ipynb notebook to complete your analysis of a fintech ETF that consists of four stocks: GOST, GS, PYPL, and SQ. Each stock has its own table in the etf.db database, which the Starter_Code folder contains.
-
-Analyze the daily returns of the ETF stocks both individually and as a whole. Then deploy the visualizations to a web application by using the Voilà library.
-
+![ETF Web Application](https://github.com/ScientiaCapital/ETF-Web-Application/blob/main/Images/etef%20pic.jpeg)
 
 ---
 
