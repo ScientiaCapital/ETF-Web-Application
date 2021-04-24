@@ -17,7 +17,7 @@ Instructions:  Use the etf_analyzer.ipynb notebook to complete your analysis of 
 Analyze the daily returns of the ETF stocks both individually and as a whole. Then deploy the visualizations to a web application by using the Voilà library.
 
      
-![ETF Web Application](images/2021_image.jpg)
+![ETF Web Application](https://github.com/ScientiaCapital/ETF-Web-Application/blob/main/Images/ETF%20invest%20app.jpeg)
 
 ---
 
