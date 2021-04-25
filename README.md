@@ -8,13 +8,13 @@
 
 Before attempting to execute any _Python_ code in `etf_analyzer.ipynb`, it is imperative that your development environment holds the following modules:
 
-[numpy](https://numpy.org/doc/stable/user/quickstart.html) - Scientific computing module.
+[numpy](https://numpy.org/doc/stable/user/quickstart.html) - Scientific computing module
 
-[pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module.
+[pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module
 
 [hvplot](https://hvplot.holoviz.org/getting_started/index.html) - High-level plotting API for PyData ecosystem built on HoloViews
 
-[sqlalchemy](https://www.sqlalchemy.org/) - Relational database module.
+[sqlalchemy](https://www.sqlalchemy.org/) - Relational database module
 
 ---
 
