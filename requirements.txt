@@ -3,3 +3,4 @@ pandas
 hvplot
 sqlalchemy
 jupyter
+voila
