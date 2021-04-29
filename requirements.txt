@@ -3,4 +3,4 @@ pandas
 hvplot
 sqlalchemy
 jupyter
-voila
+bqplot
