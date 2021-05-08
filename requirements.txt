@@ -1,6 +1,6 @@
 numpy
 pandas
-hvplot
 sqlalchemy
+plotly
 jupyter
 voila
