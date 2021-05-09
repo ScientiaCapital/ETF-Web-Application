@@ -16,7 +16,7 @@ Before attempting to execute any _Python_ code in `etf_analyzer.ipynb`, it is im
 
 [sqlalchemy](https://www.sqlalchemy.org/) - Relational database module
 
-[voila](https://voila.readthedocs.io/en/stable/) 
+[voila](https://voila.readthedocs.io/en/stable/) - Standalone web applications and dashboards
 
 ---
 
